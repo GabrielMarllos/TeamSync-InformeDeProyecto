@@ -2,7 +2,7 @@
 <h2>1.1. Startup Profile</h2>
 <h3>1.1.1. Descripción de la Startup</h3>
 <div align="justify">
-Ingresar descripcion del la starup
+<p>Somos un grupo de estudiantes universitarios de la carrera de ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas, los cuales hemos observado una creciente insatisfaccion por parte de los actuales softwares de gestion de equipos de trabajo.</p>
 <br>
 Misión:
 <br>
@@ -38,7 +38,7 @@ Visión:
   </tr>
 </table>
 <br>
-<h2>1.2. Solution Profile</h3>
+<h2>1.2. Solution Profile</h2>
 <h4>Product Name:</h4>
 
 <h4>Product Description:</h4>
@@ -50,7 +50,7 @@ Visión:
 
 <h4>Problemáticas</h4>
 
-<h4>Técnica de las 5 ‘W’s y 2 ‘H’s</h4>
+<h3>Técnica de las 5 ‘W’s y 2 ‘H’s</h3>
 <p><strong>What - ¿Cuál es el problema?</strong></br>
 aca escribp</p>
 <p><strong>When - ¿Cuándo sucede el problema?</strong></br>
